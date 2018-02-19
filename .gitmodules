@@ -1,0 +1,3 @@
+[submodule "src/include/classloader"]
+	path = src/include/classloader
+	url = https://github.com/collinsmith/classloader-inc
